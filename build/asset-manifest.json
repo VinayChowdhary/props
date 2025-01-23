@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/props/static/js/main.b521610f.js",
+    "index.html": "/props/index.html",
+    "main.b521610f.js.map": "/props/static/js/main.b521610f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b521610f.js"
+  ]
+}
